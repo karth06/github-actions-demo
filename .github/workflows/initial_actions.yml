@@ -4,5 +4,5 @@ jobs:
     test-job:
         runs-on: ubuntu-latest
         steps:
-            -name:  "greet user"
-             run:   echo "hello world"
+            - name:  "greet user"
+              run:   echo "hello world"
